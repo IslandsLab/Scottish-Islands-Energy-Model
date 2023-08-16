@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 28 15:47:02 2022
 
-@author: Chris
+@author: @Chris Matthew @Islands and Coastal Research Lab
 """
 
 from __future__ import division
